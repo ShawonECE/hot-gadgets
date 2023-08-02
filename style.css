@@ -1,0 +1,56 @@
+.car{
+    border-radius: 15px;
+    
+}
+
+#car-container{
+    height: 75vh;
+    margin: 0;
+    background-image: url(bg-2_1.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 7vw;
+}
+
+.car{
+    background-image: url(bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto 100%;
+}
+.price{
+    color: black;
+}
+
+.carousel-item {
+    padding: 1% 2% 1% 2%;
+}
+
+.writings{
+    color: dimgray;
+}
+
+.card-phone img{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.card-lap img{
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    margin-bottom: 4vh;
+}
+
+.card-cat img{
+    padding: 15% 25% 15% 25%;
+}
+
+.card-footer{
+    border: none;
+}
